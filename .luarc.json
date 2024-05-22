@@ -1,0 +1,21 @@
+{
+    "workspace.library": [
+        "/home/vinionrails/.local/share/nvim/lazy/neodev.nvim/types/nightly",
+        "/usr/local/share/nvim/runtime/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/plenary.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/oil.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/mason.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/nvim-lspconfig/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/bufferline.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/mason-lspconfig.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/indent-blankline.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/neodev.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/nvim-web-devicons/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/telescope.nvim/lua",
+        "/home/vinionrails/.local/share/nvim/lazy/catppuccin/lua",
+        "/home/vinionrails/.config/nvim/lua",
+        "${3rd}/luv/library",
+        "${3rd}/luassert/library"
+    ]
+}
